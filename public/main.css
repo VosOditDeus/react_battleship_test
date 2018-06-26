@@ -10,6 +10,11 @@
     display: flex;
     justify-content: space-evenly;
 }
-.miss{
+.miss {
     background-color: black;
+}
+.hitted{
+    background-color: red;
+    width: 100%;
+    height: inherit
 }

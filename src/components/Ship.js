@@ -7,7 +7,7 @@ export default class Ship extends React.Component {
         this.state = {
             "type": undefined,
             "alive": true,
-
+            "coordinates":[]
         }
         this.onClick = this.onClick.bind(this)
     }
